@@ -1,7 +1,0 @@
-﻿  main.cpp
-C:\Users\kiiittto\Desktop\lab3\lab3\main.cpp(9,4): error C2660: BST::printByLayers: функция не принимает 0 аргументов
-  C:\Users\kiiittto\Desktop\lab3\lab3\lab3.h(46,7):
-   см. объявление "BST::printByLayers"
-  C:\Users\kiiittto\Desktop\lab3\lab3\main.cpp(9,4):
-  при попытке сопоставить список аргументов "()"
-  
